@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">t8_SugarORMApp</string>
+    <string name="register_fullname">Nombre Completo</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_save">Guardar</string>
+</resources>
